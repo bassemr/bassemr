@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bassem Kedis</h1>
 <h3 align="center">MASTER’S STUDENT IN COMPUTER ENGINEERING (SPECIALIZATION IN ARTIFICIAL INTELLIGENCE)</h3>
 
+### 👨‍🎓 About Me
+
+<p align="left">
+Master’s student in Computer Engineering (Artificial Intelligence curriculum) at the University of Parma. Passionate about artificial intelligence, machine learning, deep learning, and computer vision, with strong problem-solving and algorithmic thinking skills. Experienced in academic projects involving software development, data analysis, and intelligent systems — with a strong interest in applying AI to real-world problems. <br><br>
+📌 Currently available for internships and research collaborations in <b>AI, Machine Learning, and Deep Learning</b>.
+</p>
+
+---
+
 - 🔭 I’m currently working on [One-shot learning](https://github.com/bassemr/one-short-learning)
 
 - 🌱 I’m currently learning **AI, DeepLearning, Machine learning, Computer Vision**
