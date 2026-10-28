@@ -1,14 +1,13 @@
-
 # Hi, I'm Bassem Kedis 👋
 
 🎓 MSc in Computer Engineering — Artificial Intelligence  
 📍 Parma, Italy
 
-🤖 **AI-obsessed, curious by nature, and always learning.**
+🤖 **AI-obsessed and curious by nature.**
 
-I'm a Computer Engineer passionate about Artificial Intelligence and exploring how intelligent systems can solve real-world problems.
+I'm a Computer Engineer passionate about Artificial Intelligence and how intelligent systems can solve real-world problems.
 
-During my thesis internship at **VISLAB**, I gained hands-on experience in Computer Vision and Deep Learning in the context of autonomous driving. I'm now exploring different areas of AI, building my knowledge, and working towards developing practical AI solutions.
+During my thesis internship at **VisLab**, I gained hands-on experience in Computer Vision and Deep Learning applied to autonomous driving. I'm now expanding into new areas of AI and working towards building practical AI solutions.
 
 ---
 
@@ -31,9 +30,9 @@ During my thesis internship at **VISLAB**, I gained hands-on experience in Compu
 
 **AI & Machine Learning**
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-555555?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-555555?style=flat)
 
 **Tools & Development Environment**
 
@@ -44,35 +43,17 @@ During my thesis internship at **VISLAB**, I gained hands-on experience in Compu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-## 🚀 Featured Projects
-
-I'm building my portfolio and will showcase selected projects here.
-
-- **[Project Name 1](YOUR_REPOSITORY_URL)** — Briefly describe the project, the problem it addresses, and the technologies used.
-- **[Project Name 2](YOUR_REPOSITORY_URL)** — Highlight an AI, Machine Learning, or Computer Vision project.
-- **[Project Name 3](YOUR_REPOSITORY_URL)** — Showcase another university or personal project.
-
-*Replace these placeholders with real projects and repository links.*
-
-## 🌱 Currently Exploring
-
-- Large Language Models and Generative AI
-- RAG pipelines and AI agents
-- MLOps and deploying AI applications
-
-Always learning, experimenting, and looking for opportunities to turn ideas into working solutions.
-
 ## 🌍 Languages
 
-- 🇪🇬 Arabic — Native
-- 🇮🇹 Italian — C1
-- 🇬🇧 English — B2
+- **Arabic** — Native
+- **Italian** — C1
+- **English** — B2
 
 ## 📫 Connect With Me
 
 - 📧 Email: [roccokedis@gmail.com](mailto:roccokedis@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/bassem-kedis-845649336/)
+- 💼 LinkedIn: [Bassem Kedis](https://www.linkedin.com/in/bassem-kedis-845649336/)
 
 ---
 
-⭐ *Always learning. Always building. Always curious about AI.*
+⭐ *Always learning. Always building.*
