@@ -70,7 +70,7 @@ Always learning, experimenting, and looking for opportunities to turn ideas into
 ## 📫 Connect With Me
 
 - 📧 Email: [roccokedis@gmail.com](mailto:roccokedis@gmail.com)
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_PROFILE_URL)
+- 💼 LinkedIn: [Connect with me](linkedin.com/in/bassem-kedis-845649336)
 
 ---
 
