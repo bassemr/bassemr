@@ -1,27 +1,77 @@
-<h1 align="center">Hi 👋, I'm Bassem Kedis</h1>
-<h3 align="center">MASTER’S STUDENT IN COMPUTER ENGINEERING (SPECIALIZATION IN ARTIFICIAL INTELLIGENCE)</h3>
 
-### 👨‍🎓 About Me
+# Hi, I'm Bassem Kedis 👋
 
-<p align="left">
-Master’s student in Computer Engineering (Artificial Intelligence curriculum) at the University of Parma. Passionate about artificial intelligence, machine learning, deep learning, and computer vision, with strong problem-solving and algorithmic thinking skills. Experienced in academic projects involving software development, data analysis, and intelligent systems — with a strong interest in applying AI to real-world problems. <br><br>
-📌 Currently available for internships and research collaborations in <b>AI, Machine Learning, and Deep Learning</b>.
-</p>
+🎓 MSc in Computer Engineering — Artificial Intelligence  
+📍 Parma, Italy
+
+🤖 **AI-obsessed, curious by nature, and always learning.**
+
+I'm a Computer Engineer passionate about Artificial Intelligence and exploring how intelligent systems can solve real-world problems.
+
+During my thesis internship at **VISLAB**, I gained hands-on experience in Computer Vision and Deep Learning in the context of autonomous driving. I'm now exploring different areas of AI, building my knowledge, and working towards developing practical AI solutions.
 
 ---
 
-- 🔭 I’m currently working on [One-shot learning](https://github.com/bassemr/one-short-learning)
+## 🧠 Areas of Interest
 
-- 🌱 I’m currently learning **AI, DeepLearning, Machine learning, Computer Vision**
+- 👁️ Computer Vision
+- 🧠 Machine Learning & Deep Learning
+- ✨ Large Language Models (LLMs) & Generative AI
+- 🔎 Retrieval-Augmented Generation (RAG) & AI Agents
+- ⚙️ MLOps & AI deployment
 
-- 👨‍💻 All of my projects are available at [https://github.com/bassemr](https://github.com/bassemr)
+## 💻 Technical Skills
 
-- 📫 How to reach me **roccokedis@gmail.com**
+**Programming Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bassem kedis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassem kedis" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**AI & Machine Learning**
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+**Tools & Development Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## 🚀 Featured Projects
+
+I'm building my portfolio and will showcase selected projects here.
+
+- **[Project Name 1](YOUR_REPOSITORY_URL)** — Briefly describe the project, the problem it addresses, and the technologies used.
+- **[Project Name 2](YOUR_REPOSITORY_URL)** — Highlight an AI, Machine Learning, or Computer Vision project.
+- **[Project Name 3](YOUR_REPOSITORY_URL)** — Showcase another university or personal project.
+
+*Replace these placeholders with real projects and repository links.*
+
+## 🌱 Currently Exploring
+
+- Large Language Models and Generative AI
+- RAG pipelines and AI agents
+- MLOps and deploying AI applications
+
+Always learning, experimenting, and looking for opportunities to turn ideas into working solutions.
+
+## 🌍 Languages
+
+- 🇪🇬 Arabic — Native
+- 🇮🇹 Italian — C1
+- 🇬🇧 English — B2
+
+## 📫 Connect With Me
+
+- 📧 Email: [roccokedis@gmail.com](mailto:roccokedis@gmail.com)
+- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_PROFILE_URL)
+
+---
+
+⭐ *Always learning. Always building. Always curious about AI.*
